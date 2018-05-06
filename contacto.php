@@ -136,7 +136,7 @@
                               <br>
                                 <p>FORMULARIO DE CONTACTO</p>
                                 <div class="form-group"><label class="col-lg-2 control-label">Nombre</label>
-                                    <div class="col-lg-10"><input type="email" placeholder="Nombre" class="form-control">
+                                    <div class="col-lg-10"><input type="text" placeholder="Nombre" class="form-control">
                                     </div>
                                 </div>
                                 <div class="form-group"><label class="col-lg-2 control-label">Email</label>

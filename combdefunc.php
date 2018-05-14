@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   
   <title>.: Asesorías de cálculo diferencial :.</title>
   <!-- Bootstrap core CSS-->
@@ -21,10 +21,10 @@
 <body class="fixed-nav sticky-footer bg-dark" id="page-top" style="font-family: 'Comic Sans MS', cursive, sans-serif " >
   <!-- Navigation-->
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav" >
-    <a class="navbar-brand" href="index.html"><b>ASESORÍAS DE CÁLCULO DIFERENCIAL</b></a>
-     <!-- <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+    <a class="navbar-brand" href="index.html"><b><span >ASESORÍAS DE CÁLCULO DIFERENCIAL</span></b></a>
+    <!-- <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
-    </button>  -->
+    </button> -->
     <div class="collapse navbar-collapse" id="navbarResponsive">
       <ul class="navbar-nav navbar-sidenav" id="exampleAccordion">
         <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Dashboard">
@@ -42,7 +42,7 @@
             <li>
               <a class="nav-link-collapse collapsed" data-toggle="collapse" href="#collapseMulti2">Unidad 1.- Funciones</a>
               <ul class="sidenav-third-level collapse" id="collapseMulti2">
-               <li>
+                <li>
                   <a href="funcygraf.php">Funciones y gráficas</a>
                 </li>
                 <li>
@@ -58,7 +58,7 @@
                   <a href="funcinv.php">Funciones inversas</a>
                 </li>
                 <li>
-                  <a href="funepylog.php">Funciones exponenciales y logarítmicas</a>
+                  <a href="funexpylog.php">Funciones exponenciales y logarítmicas</a>
                 </li>
               </ul>
             </li>
@@ -124,15 +124,35 @@
    
     </div>
   </nav>
-<div class="content-wrapper" style="background-image: url(img/back.jpg);" >
+  <div class="content-wrapper" style="background-image: url(img/back.jpg);" >
   <center>  
   <div class="col-lg-11" style="background-color: #f2f2f2; color: black; border-radius: 5px; box-shadow: 1px 1px 10px 5px #000">
     <!-- Aqui inicia el contenido de la pagina -->
     <br>
-      <h2>BIENVENIDOS</h2>
-      <br>
-   
+    <h2>Combinación de funciones</h2>
+    <br>
+    <p>Al igual que los números, las funciones se pueden sumar, restar, multiplicar y dividir (excepto si el denominador es cero) para obtener nuevas funciones. Si f y g son funciones, entonces para cada x que esté en el dominio tanto de f como de g, definimos las funciones f + g, f – g y fg mediante las fórmulas
+    (f + g)(x) = f(x) + g(x).
+    (f – g)(x) = f(x) – g(x).
+    (fg)(x) =f(x)g(x)
+       La composición de funciones es otro método para combinar funciones. 
+    Si f y g son funciones, la función composición f o g (“f” compuesta de “g”) se define por: 
+    (f o g)(x) = f(g(x)).
+    El dominio f o g consiste en todos los número x en el dominio de g para los cuales g(x) está en el dominio de f.
+    </p>
+    <img src="img/1-4.png" alt="">
+    <p>
+      <h5>Sección de videos</h5>
+      <b>Operaciones con funciones (Suma, resta, multiplicación y división).</b><br>
+      <a rel="stylesheet" target="_blank" href="https://www.youtube.com/watch?v=jP1mSfUqpxw">https://www.youtube.com/watch?v=jP1mSfUqpxw</a> <br>
+      <b>FUNCIONES COMPUESTAS Y SUS DOMINIOS</b><br>
+      <a rel="stylesheet" target="_blank" href="https://www.youtube.com/watch?v=fLiwtU-8KN4">https://www.youtube.com/watch?v=fLiwtU-8KN4</a><br>
+      <b>DOMINIO de OPERACIÓN entre FUNCIONES (SUMA, RESTA, MULTIPLICACIÓN y DIVISIÓN)</b><br>
+      <a rel="stylesheet" target="_blank" href="https://www.youtube.com/watch?v=jO2sTxbG1Ks">https://www.youtube.com/watch?v=jO2sTxbG1Ks</a>
+    </p>
 <br>
+
+
 
 
     <!-- Aqui finaliza el contenido de la pagina -->

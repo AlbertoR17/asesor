@@ -5,8 +5,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="description" content="">
-  <meta name="author" content="">
+  
   <title>.: Asesorías de cálculo diferencial :.</title>
   <!-- Bootstrap core CSS-->
   <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -44,22 +43,22 @@
               <a class="nav-link-collapse collapsed" data-toggle="collapse" href="#collapseMulti2">Unidad 1.- Funciones</a>
               <ul class="sidenav-third-level collapse" id="collapseMulti2">
                 <li>
-                  <a href="#">Funciones y gráficas</a>
+                  <a href="funcygraf.php">Funciones y gráficas</a>
                 </li>
                 <li>
-                  <a href="#">Combinación de funciones</a>
+                  <a href="combdefunc.php">Combinación de funciones</a>
                 </li>
                 <li>
-                  <a href="#">Funciones polinomiales y racionales</a>
+                  <a href="funpolyrac.php">Funciones polinomiales y racionales</a>
                 </li>
                 <li>
-                  <a href="#">Funciones transcendentes</a>
+                  <a href="functra.php">Funciones transcendentes</a>
                 </li>
                 <li>
-                  <a href="#">Funciones inversas</a>
+                  <a href="funcinv.php">Funciones inversas</a>
                 </li>
                 <li>
-                  <a href="#">Funciones exponenciales y logarítmicas</a>
+                  <a href="funexpylog.php">Funciones exponenciales y logarítmicas</a>
                 </li>
               </ul>
             </li>

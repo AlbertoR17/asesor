@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   
   <title>.: Asesorías de cálculo diferencial :.</title>
   <!-- Bootstrap core CSS-->
@@ -21,10 +21,10 @@
 <body class="fixed-nav sticky-footer bg-dark" id="page-top" style="font-family: 'Comic Sans MS', cursive, sans-serif " >
   <!-- Navigation-->
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav" >
-    <a class="navbar-brand" href="index.html"><b>ASESORÍAS DE CÁLCULO DIFERENCIAL</b></a>
-     <!-- <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+    <a class="navbar-brand" href="index.html"><b><span >ASESORÍAS DE CÁLCULO DIFERENCIAL</span></b></a>
+    <!-- <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
-    </button>  -->
+    </button> -->
     <div class="collapse navbar-collapse" id="navbarResponsive">
       <ul class="navbar-nav navbar-sidenav" id="exampleAccordion">
         <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Dashboard">
@@ -42,7 +42,7 @@
             <li>
               <a class="nav-link-collapse collapsed" data-toggle="collapse" href="#collapseMulti2">Unidad 1.- Funciones</a>
               <ul class="sidenav-third-level collapse" id="collapseMulti2">
-               <li>
+                <li>
                   <a href="funcygraf.php">Funciones y gráficas</a>
                 </li>
                 <li>
@@ -58,7 +58,7 @@
                   <a href="funcinv.php">Funciones inversas</a>
                 </li>
                 <li>
-                  <a href="funepylog.php">Funciones exponenciales y logarítmicas</a>
+                  <a href="funexpylog.php">Funciones exponenciales y logarítmicas</a>
                 </li>
               </ul>
             </li>
@@ -124,15 +124,13 @@
    
     </div>
   </nav>
-<div class="content-wrapper" style="background-image: url(img/back.jpg);" >
+  <div class="content-wrapper" style="background-image: url(img/back.jpg);" >
   <center>  
-  <div class="col-lg-11" style="background-color: #f2f2f2; color: black; border-radius: 5px; box-shadow: 1px 1px 10px 5px #000">
+  <div class="col-lg-12">
     <!-- Aqui inicia el contenido de la pagina -->
-    <br>
-      <h2>BIENVENIDOS</h2>
-      <br>
-   
-<br>
+    
+
+
 
 
     <!-- Aqui finaliza el contenido de la pagina -->

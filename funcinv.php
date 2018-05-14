@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   
   <title>.: Asesorías de cálculo diferencial :.</title>
   <!-- Bootstrap core CSS-->
@@ -21,10 +21,10 @@
 <body class="fixed-nav sticky-footer bg-dark" id="page-top" style="font-family: 'Comic Sans MS', cursive, sans-serif " >
   <!-- Navigation-->
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav" >
-    <a class="navbar-brand" href="index.html"><b>ASESORÍAS DE CÁLCULO DIFERENCIAL</b></a>
-     <!-- <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+    <a class="navbar-brand" href="index.html"><b><span >ASESORÍAS DE CÁLCULO DIFERENCIAL</span></b></a>
+    <!-- <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
-    </button>  -->
+    </button> -->
     <div class="collapse navbar-collapse" id="navbarResponsive">
       <ul class="navbar-nav navbar-sidenav" id="exampleAccordion">
         <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Dashboard">
@@ -42,7 +42,7 @@
             <li>
               <a class="nav-link-collapse collapsed" data-toggle="collapse" href="#collapseMulti2">Unidad 1.- Funciones</a>
               <ul class="sidenav-third-level collapse" id="collapseMulti2">
-               <li>
+                <li>
                   <a href="funcygraf.php">Funciones y gráficas</a>
                 </li>
                 <li>
@@ -58,7 +58,7 @@
                   <a href="funcinv.php">Funciones inversas</a>
                 </li>
                 <li>
-                  <a href="funepylog.php">Funciones exponenciales y logarítmicas</a>
+                  <a href="funexpylog.php">Funciones exponenciales y logarítmicas</a>
                 </li>
               </ul>
             </li>
@@ -124,17 +124,45 @@
    
     </div>
   </nav>
-<div class="content-wrapper" style="background-image: url(img/back.jpg);" >
+  <div class="content-wrapper" style="background-image: url(img/back.jpg);" >
   <center>  
   <div class="col-lg-11" style="background-color: #f2f2f2; color: black; border-radius: 5px; box-shadow: 1px 1px 10px 5px #000">
     <!-- Aqui inicia el contenido de la pagina -->
     <br>
-      <h2>BIENVENIDOS</h2>
-      <br>
-   
-<br>
+    <h2>Funciones inversas</h2>
+    <br>
+    <p>
+      Se llama función inversa o reciproca de f a otra función f−1 que cumple que:
+Si f(a) = b, entonces f−1(b) = a.
+Veamos un ejemplo a partir de la función f(x) = x + 4
 
+    </p>
+    <img src="img/5-1.png" alt="">
+    <p>
+      Podemos observar que:
+El dominio de f−1 es el recorrido de f.
+El recorrido de f−1 es el dominio de f.
+Si queremos hallar el recorrido de una función tenemos que hallar el dominio de su función inversa.
+Si dos funciones son inversas su composición es la función identidad.
+(f o f−1) (x) = (f−1 o f) (x) = x
+Las gráficas de f y f-1 son simétricas respecto de la bisectriz del primer y tercer cuadrante.
 
+    </p>
+    <img src="img/5-2.png" alt="">
+    <p>
+      Hay que distinguir entre la función inversa, f−1(x), y la inversa de una función, 
+    </p>
+  <img src="img/5-3.png" alt="">
+  <p>
+    Ejemplos
+Calcular la función inversa de:
+  </p>
+  <img src="img/5-4.png" alt="">
+  <p>
+    Vamos a comprobar el resultado para x = 2
+  </p>
+  <img src="img/5-5.png" alt="">
+<br><br>
     <!-- Aqui finaliza el contenido de la pagina -->
   </div>
   </center>

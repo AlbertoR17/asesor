@@ -57,9 +57,7 @@
                 <li>
                   <a href="funcinv.php">Funciones inversas</a>
                 </li>
-                <li>
-                  <a href="funexpylog.php">Funciones exponenciales y logarítmicas</a>
-                </li>
+               
               </ul>
             </li>
             <li>

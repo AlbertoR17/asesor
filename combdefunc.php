@@ -22,9 +22,9 @@
   <!-- Navigation-->
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav" >
     <a class="navbar-brand" href="index.html"><b><span >ASESORÍAS DE CÁLCULO DIFERENCIAL</span></b></a>
-    <!-- <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+     <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
-    </button> -->
+    </button> 
     <div class="collapse navbar-collapse" id="navbarResponsive">
       <ul class="navbar-nav navbar-sidenav" id="exampleAccordion">
         <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Dashboard">
@@ -142,11 +142,11 @@
     <p>
       <h5>Sección de videos</h5>
       <b>Operaciones con funciones (Suma, resta, multiplicación y división).</b><br>
-      <a rel="stylesheet" target="_blank" href="https://www.youtube.com/watch?v=jP1mSfUqpxw">https://www.youtube.com/watch?v=jP1mSfUqpxw</a> <br>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/jP1mSfUqpxw?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> <br><br>
       <b>FUNCIONES COMPUESTAS Y SUS DOMINIOS</b><br>
-      <a rel="stylesheet" target="_blank" href="https://www.youtube.com/watch?v=fLiwtU-8KN4">https://www.youtube.com/watch?v=fLiwtU-8KN4</a><br>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/fLiwtU-8KN4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br><br>
       <b>DOMINIO de OPERACIÓN entre FUNCIONES (SUMA, RESTA, MULTIPLICACIÓN y DIVISIÓN)</b><br>
-      <a rel="stylesheet" target="_blank" href="https://www.youtube.com/watch?v=jO2sTxbG1Ks">https://www.youtube.com/watch?v=jO2sTxbG1Ks</a>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/jO2sTxbG1Ks" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br>
     </p>
 <br>
 

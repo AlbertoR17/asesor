@@ -22,9 +22,9 @@
   <!-- Navigation-->
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav" >
     <a class="navbar-brand" href="index.html"><b><span >ASESORÍAS DE CÁLCULO DIFERENCIAL</span></b></a>
-    <!-- <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+     <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
-    </button> -->
+    </button> 
     <div class="collapse navbar-collapse" id="navbarResponsive">
       <ul class="navbar-nav navbar-sidenav" id="exampleAccordion">
         <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Dashboard">
@@ -124,16 +124,23 @@
   </nav>
   <div class="content-wrapper" style="background-image: url(img/back.jpg);" >
   <center>  
+    <?php 
+
+    
+
+
+
+     ?>
   <div class="col-lg-5">
                     <div class="ibox float-e-margins">
                         <div style="background-color: #f2f2f2; border-radius: 5px; box-shadow: 1px 1px 10px 5px #000">
                           <center>
                           <div >
-                            <form class="form-horizontal">
+                            <form class="form-horizontal" method="POST">
                               <br>
                                 <p>FORMULARIO DE CONTACTO</p>
                                 <div class="form-group"><label class="col-lg-2 control-label">Nombre</label>
-                                    <div class="col-lg-10"><input type="text" placeholder="Nombre" class="form-control">
+                                    <div class="col-lg-10"><input type="text" placeholder="nombre" class="form-control">
                                     </div>
                                 </div>
                                 <div class="form-group"><label class="col-lg-2 control-label">Email</label>
@@ -142,7 +149,7 @@
                                     </div>
                                 </div>
                                 <div class="form-group"><label class="col-lg-2 control-label">Mensaje</label>
-                                    <div class="col-lg-10"><textarea class="form-control" name="" id="" cols="30" rows="10">
+                                    <div class="col-lg-10"><textarea class="form-control" name="mensaje" id="" cols="30" rows="10">
                                       
                                     </textarea>
                                     </div>

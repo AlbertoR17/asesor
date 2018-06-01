@@ -22,9 +22,9 @@
   <!-- Navigation-->
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav" >
     <a class="navbar-brand" href="index.html"><b><span >ASESORÍAS DE CÁLCULO DIFERENCIAL</span></b></a>
-    <!-- <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+     <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
-    </button> -->
+    </button>
     <div class="collapse navbar-collapse" id="navbarResponsive">
       <ul class="navbar-nav navbar-sidenav" id="exampleAccordion">
         <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Dashboard">
@@ -142,11 +142,14 @@
     <p>
       <h5>Sección de videos</h5>
       <b>Funciones lineales grafica dominio  y rango: </b> <br> 
-      <a rel="stylesheet" target="_blank" href="https://www.youtube.com/watch?v=R38_FohTJPc">https://www.youtube.com/watch?v=R38_FohTJPc</a> <br>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/R38_FohTJPc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br><br>
+      
       <b>¿Cómo sacar dominio y rango?</b> <br>
-      <a rel="stylesheet" target="_blank" href="https://www.youtube.com/watch?v=o9hEO2MYOZg">https://www.youtube.com/watch?v=o9hEO2MYOZg</a> <br> 
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/o9hEO2MYOZg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br><br>
+       
       <b>Dominio y Rango de una función</b> <br>
-      <a rel="stylesheet" target="_blank" href="https://www.youtube.com/watch?v=bt9NwOLDITo">https://www.youtube.com/watch?v=bt9NwOLDITo</a> <br>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/bt9NwOLDITo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br><br>
+      
     </p>
     <h3>Gráficas de funciones:</h3>
     <p>
@@ -155,9 +158,9 @@
     </p>
     <img src="img/1-3.png" alt="">
     <p>
-      <h5>Sección de videos</h5>
+      <h5>Sección de video</h5>
       <b>¿Cómo graficar  funciones?</b><br>
-      <a rel="stylesheet" target="_blank" href="https://www.youtube.com/watch?v=AV-m9RGotME">https://www.youtube.com/watch?v=AV-m9RGotME</a>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/AV-m9RGotME" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br><br>
     </p>
     
 

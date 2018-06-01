@@ -22,9 +22,9 @@
   <!-- Navigation-->
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav" >
     <a class="navbar-brand" href="index.html"><b><span >ASESORÍAS DE CÁLCULO DIFERENCIAL</span></b></a>
-    <!-- <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+     <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
-    </button> -->
+    </button> 
     <div class="collapse navbar-collapse" id="navbarResponsive">
       <ul class="navbar-nav navbar-sidenav" id="exampleAccordion">
         <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Dashboard">
@@ -192,7 +192,8 @@
 
     </p>
     <h4>Seccion de video</h4>  
-    <a href="https://youtu.be/VV6ST2c9gaM" >https://youtu.be/VV6ST2c9gaM</a>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/VV6ST2c9gaM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br><br>
+    
     <p>
       • Funciones crecientes y decrecientes. Los conceptos crecientes y decrecientes pueden extenderse a cualquier función. Se dice que una funcion f es
 o Creciente sobre un intervalo si f(x1) < f(x2), y
@@ -207,7 +208,7 @@ Ejemplo 2. Rectas paralelas y perpendiculares.
 
     </p>
     <h4>Seccion de video</h4>  
-    <a href="https://youtu.be/LJtNnhcXK-I" >https://youtu.be/LJtNnhcXK-I</a>
+     <iframe width="560" height="315" src="https://www.youtube.com/embed/LJtNnhcXK-I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br><br>
     <p>
       • Funciones cuadraticas. La funcion elevar al cuadrado y = x^2 es un elemento de una familia de funciones denominadas funciones cuadraticas; es decir, funciones polinomiales de la forma f(x) = ax^2 + bx + c, donde a = 0, b y c son constantes. Las graficas de funciones cuadraticas, denominadas parabolas, simplemente son transformaciones rigidas y no rigidas de la grafica de y = x^2 mostrada en la figura 4.
     </p>
@@ -221,7 +222,7 @@ Esta forma se obtiene a partir de f(x) = ax^2 + bx + c al completar el cuadrado 
 Ejemplo 3. Grafica usando las intersecciones y el vértice.
 </p>
 <h4>Seccion de video</h4>
-    <a href="https://youtu.be/5LslxYg1tl8" >https://youtu.be/5LslxYg1tl8</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5LslxYg1tl8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br><br>
     <p>
       • Funciones polinomiales de orden superior. La gráfica de toda funcion lineal f(x) = ax + b es una recta y la gráfica de toda funcion cuadratica f(x) = ax^2 + bx + c es una parabola. Estas declaraciones descriptivas definitivas no pueden hacerse con respecto a la gráfica de una funcion polinomial de orden superior. Resulta que la gráfica de una funcion polinomial de grado n > 3 puede tener varias formas posibles.
 
@@ -236,7 +237,7 @@ Comportamiento final. En terminos aproximados, el comportamiento final de cualqu
 Ejemplo 4. Graficas de funciones polinomiales.
 </p>
 <h4>Seccion de video</h4>
-    <a href="https://youtu.be/emjucbFp4mo" >https://youtu.be/emjucbFp4mo</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/emjucbFp4mo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br><br>
 
   <p>•  Funciones racionales. Graficar una funcion racional f(x) = p(x) / q(x) es un poco más complicado que graficar una función polinomial porque además de estar atento a las intersecciones, simetria y desplazamiento/reflexión/estiramiento de graficas conocidas, tambien es necesario prestar atencion al dominio f y los grados de p(x) y q(x).
 
@@ -246,7 +247,7 @@ Ejemplo 4. Graficas de funciones polinomiales.
   <p>• Asintonas. La grafica de una funcion racional f(x) = p(x) / q(x) puede tener varias asintonas. Las asintonas pueden ser una recta horizontal, una recta vertical o una recta inclinada. En un nivel práctico, las asintonas vertical y horizontal de la gráfica de una funcion racional f pueden determinarse por inspeccion.</p>
   <img src="img/3-11.png" alt="">
   <p>Ejemplo 5. Graficas de funciones racionales.</p>
-  <a href="https://youtu.be/emjucbFp4mo" >https://youtu.be/emjucbFp4mo</a>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/HGdiXiVxMxA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br> <br>
 <p>•  Grafica con un hueco. Se sabe que si q(a) = 0 y p(x) y q(x) no tienen factores comunes, entonces la recta x = a necesariamente es una asintona vertical para la grafica f. Sin embargo, cuando p(a) = 0 y q(a) = 0, entonces x = a puede no ser una asintona; en la gráfica puede haber simplemente un hueco.</p>
     <!-- Aqui finaliza el contenido de la pagina -->
   </div>
